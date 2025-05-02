@@ -1,0 +1,17 @@
+{
+    "Version": "1.2.3",
+    "Files": [
+        {
+            "Path": "MyGame.exe",
+            "Hash": "abc123"
+        },
+        {
+            "Path": "data/config.json",
+            "Hash": "def456"
+        },
+        {
+            "Path": "assets/soundtrack.mp3",
+            "Hash": "ghi789"
+        }
+    ]
+}
