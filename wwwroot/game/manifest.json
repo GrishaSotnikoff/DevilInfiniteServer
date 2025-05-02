@@ -1,17 +1,9 @@
-{
-    "Version": "1.2.3",
-    "Files": [
-        {
-            "Path": "MyGame.exe",
-            "Hash": "abc123"
-        },
-        {
-            "Path": "data/config.json",
-            "Hash": "def456"
-        },
-        {
-            "Path": "assets/soundtrack.mp3",
-            "Hash": "ghi789"
-        }
-    ]
-}
+[
+    {
+        "FileName": "DevilInfinite.exe",
+        "FilePath": "DevilInfinite.exe",
+        "Url": "/game/files/DevilInfinite.exe",
+        "Size": "190836512",
+        "Checksum": "73cae0a8a0c548a66fe29f79a901b73702a20b130ca7294734c0fb1dc1cbc444"
+    }
+]
